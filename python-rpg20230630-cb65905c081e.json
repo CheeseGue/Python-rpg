@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "python-rpg20230630",
+  "private_key_id": "cb65905c081e544531e7b03099246d49a1c98312",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzyo9Xcj7+K3sV\ntJJsl5Mbyvu8tItee6TJg9TW+iV/zIB0RQhJgFlAcBEZO6Jrbq6MeRglVMcv93p2\n/HGsqI4qmHVhCGwIRRMhcErNwt4DDsICg3qur/GgONGkt/++R1jV03osRt8kQpnV\nAd5pvxkUM9q4VNd+R3kZL5UoBklF2844nEDbf28MI98yjCwNSvpy7otAybh0o9Lp\nkWTQ2vVK/fYnTrxbz6/xQdM1mYUh83mABHu6AvwTHbyAfuD/lHSQyjdpIxRr98nz\naznQmHKjkoZiuG0taUjLfFgiEXo5lUrH7pZ9hpa6phzQCeutkFe2M/P1Adz+AgYG\n4vc6ci6dAgMBAAECggEAK0cdlQefqTAPO0zRmEkuNJj6WtS83Zv2sTlGIQ9qumYg\nH5zEX2kBUvUG8KN9t82XP6IgkU/keKPiO0UOGeki+5biXl6YHq996OUuZHQ9W9AQ\nHGnIvMcGazJyKGvQKF3lQOdcd88BhKlxfSgrgRnqcAYBZrCphLCwskLVbSKCPcnB\nB5k9btR51irFnBb2MFbwcoEqZOCN5wW2DT2idnVWVAXr9O3kC+59H8yEs9szB3Jy\nM/qDajp9M5recfKTrfFgCmBfspbf0m875llgpSNyMJQHfM7sztaPEtiCzhVvfbxl\nWp/FYJAwR7bgeU0shNXro8lAG5fYEdxd6VhZYiwO8QKBgQDsXBQd/4KPL/+bvMie\nGAV/c05F2OEB6wYDgysfnNVVyE5mX+SkYgjMMD7+lhX7GJJ0zRJgespXgcLZ0HkF\nQJvE3Opho5reUEakk2x1+MG+0bdD+hehbK98FxoS8FCF6TVCvalTO+8haxiH7do6\nPvdr6v6sOQU57MPH7hUjuKdp6QKBgQDCuyOQhE+f+Bu7OxNEwASlayxbvAjELPqT\nFy5UhUkPjHu26AbFvqaWaHhuwXrgH0dV6WcBHc9b01wqqyNTaJ97o9373/UsdK8K\nAXCkmK/noFN09ep75nL/55CMmlAfOa655TRYZ1HorM2OY7rGhQ61zxrEELqJ98hs\n0jOBVnT6lQKBgQCrkK7dk4FelFWy4xawgvlCqRzw4Ft7e/CSjhy4RqwoJ0yZTRP3\nKl3+cSrYu3LbH9v3QoALXjYPzNX2KzgdUud+v2i2VP5uTtDoV0aMX3OrIikoA5ox\nh2Xd6hr4Ek4w1bXeazNEgqWymT1mNYWJb/lC8YHI217qy+zU7AGWO0vyOQKBgQCl\nNsc2zrsLuyI0GSwA8XU/r41EC2XYo1y5PTqmpSrWkVdJWNSeI2INTHeZaHhK/N62\nKj+lN9h9TPbukKJ5GtPsv5wQHfRSknEL6Srby1u7BlCodBhMpLm/GoWOdUIzK+pt\nd+SQeKCK60m/XCfUVIGliSBpZtQNSHf4s+LVAjhffQKBgEHoCp0aSSZA7uVWtAEk\nXTjGJwsTRTQAW4BDwGfearbWiLfzoCW5dAbMbzL6ejqDwyh4x2hTAom9onqtxih3\nbIygcCZtfzner5kAPJy9G8+k9dkZzcjBjJiKTgZA6MFHKM3/6l0EZzuZBhvd8KEw\nsb08nrzwnyaR3cFs/LIl2DDz\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-rpg@python-rpg20230630.iam.gserviceaccount.com",
+  "client_id": "100129910730018792144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-rpg%40python-rpg20230630.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
